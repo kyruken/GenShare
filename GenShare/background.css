@@ -1,0 +1,21 @@
+body, html {
+	background-color: #F5F5DC;
+	color: black;
+	font-size: 30px;
+	height: 100%;
+ 
+}
+
+
+.hero-image {
+  
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("abstract.jpg");
+
+  height: 100%;
+
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
